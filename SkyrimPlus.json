@@ -1,1 +1,38 @@
-
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Skyrim+",
+    "description": "This mod list is vanilla-based. It adds content without significantly altering the visuals. It tries to respect the original vision",
+    "author": "NotToddHoward",
+    "maintainers": [
+      "github.com/NotToddHoward"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/NotToddHoward/SkyrimPlus/main/SkyrimPlus.jpg",
+      "readme": "https://nottoddhoward.github.io/Skyrim-Readme/",
+      "download": "https://authored-files.wabbajack.org/Skyrim+.wabbajack_930f0d44-c99e-4a14-8efa-8413615c4450",
+      "machineURL": "SkyrimPlus",
+      "discordURL": "https://discord.gg/rvRxnSa3"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "EfJ7Pfi3nz8=",
+      "Size": 434769957,
+      "NumberOfArchives": 1097,
+      "SizeOfArchives": 81914138319,
+      "NumberOfInstalledFiles": 178045,
+      "SizeOfInstalledFiles": 126575328659
+    },
+    "version": "1.0.0-beta"
+  }
+]
