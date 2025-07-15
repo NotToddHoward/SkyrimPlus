@@ -26,13 +26,13 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "EfJ7Pfi3nz8=",
-      "Size": 434769957,
-      "NumberOfArchives": 1097,
-      "SizeOfArchives": 81914138319,
-      "NumberOfInstalledFiles": 178045,
-      "SizeOfInstalledFiles": 126575328659
+      "Hash": "6xYR0fkN87Q=",
+      "Size": 434743827,
+      "NumberOfArchives": 1107,
+      "SizeOfArchives": 81941584690,
+      "NumberOfInstalledFiles": 179052,
+      "SizeOfInstalledFiles": 126677390540
     },
-    "version": "1.0.0"
+    "version": "1.0.2"
   }
 ]
