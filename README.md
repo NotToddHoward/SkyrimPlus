@@ -23,7 +23,7 @@ You can check the full list [here](https://loadorderlibrary.com/lists/skyrim-531
 ## Support & Community
 
 - [Support me on Patreon](https://patreon.com/user?u=3502847&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
-- [Join Discord](https://discord.gg/rvRxnSa3)
+- [Join Discord](https://discord.gg/Z9pj2KWZRw)
 - [Support me on Ko-fi](https://ko-fi.com/K3K116XAYR)
 
 ---
