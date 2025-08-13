@@ -20,19 +20,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/NotToddHoward/SkyrimPlus/main/Skyrim%2B.webp",
       "readme": "https://nottoddhoward.github.io/Skyrim-Readme/",
-      "download": "https://authored-files.wabbajack.org/Skyrim+.wabbajack_88028e30-c090-4038-ac31-722e734008fe",
+      "download": "https://authored-files.wabbajack.org/Skyrim+.wabbajack_248daea9-1e09-4cae-9890-68ab29eefb94",
       "machineURL": "SkyrimPluslink",
       "discordURL": "https://discord.gg/Z9pj2KWZRw"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "V++kpRzxhe=",
-      "Size": 254898393,
-      "NumberOfArchives": 1187,
-      "SizeOfArchives": 96935350791,
-      "NumberOfInstalledFiles": 216087,
-      "SizeOfInstalledFiles": 144356564990
+      "Hash": "+sTmbSODmJY=",
+      "Size": 260943383,
+      "NumberOfArchives": 1212,
+      "SizeOfArchives": 104386376317,
+      "NumberOfInstalledFiles": 228360,
+      "SizeOfInstalledFiles": 151140212982
     },
-    "version": "1.2.0"
+    "version": "1.2.2"
   }
 ]
